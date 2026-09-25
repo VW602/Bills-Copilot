@@ -10,6 +10,17 @@ This repository is a public engineering case study. The production source code a
 
 ---
 
+## Product Preview
+
+<p align="center">
+  <img src="assets/01_Home.png" width="210" alt="Bills Copilot home dashboard">
+  <img src="assets/07_Home_This_Month.png" width="210" alt="Bills Copilot monthly planning dashboard">
+  <img src="assets/06_Bills.png" width="210" alt="Bills Copilot bills view">
+  <img src="assets/05_Insights.png" width="210" alt="Bills Copilot insights view">
+</p>
+
+---
+
 ## The Problem
 
 Many personal-finance apps begin with transaction feeds or bank integrations.
